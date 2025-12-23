@@ -1,1 +1,2 @@
 # ahj_homeworks_dnd
+[![Deploy to GitHub Pages](https://github.com/Jeyhun1979/ahj_homeworks_dnd/actions/workflows/deploy.yml/badge.svg)](https://github.com/Jeyhun1979/ahj_homeworks_dnd/actions/workflows/deploy.yml)
